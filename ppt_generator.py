@@ -1,3 +1,6 @@
+# This is a test file to generate PPT using python uses hard coded instructions to
+# generate an ugly ppt
+
 import collections
 import collections.abc
 from pptx import Presentation
